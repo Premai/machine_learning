@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'bonus'
+p3
+aS'shared_receipt_with_poi'
+p4
+aS'total_stock_value'
+p5
+aS'fragment_to_poi_email'
+p6
+aS'exercised_stock_options'
+p7
+a.
